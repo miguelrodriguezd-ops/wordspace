@@ -1,1 +1,3 @@
-este es el repositorio donde vamos a estar haciendo los talleres en clase
+este esel repositorio donde vamos a estar haciendo los talleres en clase
+
+
